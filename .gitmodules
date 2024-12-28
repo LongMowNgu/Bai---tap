@@ -1,0 +1,3 @@
+[submodule "edu-market"]
+	path = edu-market
+	url = https://github.com/zunohoang/edu-market.git
